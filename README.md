@@ -1,3 +1,3 @@
-# Kazuki-Tool
+# KZ Tool
 
-This is just a version number.
+KZ Tool
